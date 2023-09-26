@@ -7,7 +7,7 @@
 #include "SD.h"
 #include "SPI.h"
 
-const char* ssid = "ix";
+const char* ssid = "idoenx";
 const char* password = "88888888";
 
 const long utcOffsetInSeconds = 25200;
